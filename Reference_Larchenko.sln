@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reference_Larchenko", "Reference_Larchenko\Reference_Larchenko.csproj", "{2CED4B9C-BDC1-4F48-8B1B-5F85BC330A0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CED4B9C-BDC1-4F48-8B1B-5F85BC330A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CED4B9C-BDC1-4F48-8B1B-5F85BC330A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CED4B9C-BDC1-4F48-8B1B-5F85BC330A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CED4B9C-BDC1-4F48-8B1B-5F85BC330A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {235EDCB8-BA50-463F-B332-DC95121DD745}
+	EndGlobalSection
+EndGlobal
