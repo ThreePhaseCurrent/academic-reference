@@ -1,8 +1,9 @@
 # academic-reference
-The project was written as a college thesis in 2019.
-Outdated Winforms technology is used. 
+<strong>The project was written as a college thesis in 2019.
+Outdated Winforms technology is used. When I was developing this application, this was my first experience of developing applications of this scale. Therefore, the project has unsupported and unreadable code.</strong>
 
 <strong>The purpose of the system</strong> is to automate the duties of an employee of the training unit.
+<strong>This copy of the program is still used in college to automate work.</strong>
 <strong>For work, you need</strong> to install .NET Framework 4.0 and Word 2010.
 
 <strong>For all the functionality to work, you need</strong> to add the Additional programs folder to the Release directory. In it you need to create a Word folder and place the Word 2010 installer named Word_2010.exe there. If necessary, the program will prompt the user to install it.
