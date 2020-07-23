@@ -30,11 +30,17 @@ To create help, the COM-object Word 2010 is used. Also in the application there 
 <p align="center">
   <img width="600" height="300" src="https://user-images.githubusercontent.com/37472784/88281145-d5890c00-ccef-11ea-91bf-ca6a8099ee3b.png">
   <img width="600" height="300" src="https://user-images.githubusercontent.com/37472784/88281196-e6398200-ccef-11ea-8279-1993fac18909.png">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/37472784/88281244-fea99c80-ccef-11ea-9e40-d6c38a9dd172.png">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/37472784/88281822-00c02b00-ccf1-11ea-93d9-e045b484991e.png">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/37472784/88281665-c0f94380-ccf0-11ea-809f-5b5fcf59eeb9.png">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/37472784/88281691-ca82ab80-ccf0-11ea-8149-9cc617ca0ab8.png">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/37472784/88281715-d2425000-ccf0-11ea-9b15-bf06b289a2a4.png">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/37472784/88282015-62809500-ccf1-11ea-949f-0c1cb381de74.png">
+  <img width="600" height="350" src="https://user-images.githubusercontent.com/37472784/88281244-fea99c80-ccef-11ea-9e40-d6c38a9dd172.png">
+  <img width="600" height="350" src="https://user-images.githubusercontent.com/37472784/88281822-00c02b00-ccf1-11ea-93d9-e045b484991e.png">
+  <img width="600" height="350" src="https://user-images.githubusercontent.com/37472784/88281665-c0f94380-ccf0-11ea-809f-5b5fcf59eeb9.png">
+  <img width="600" height="350" src="https://user-images.githubusercontent.com/37472784/88281691-ca82ab80-ccf0-11ea-8149-9cc617ca0ab8.png">
+  <img width="600" height="450" src="https://user-images.githubusercontent.com/37472784/88281715-d2425000-ccf0-11ea-9b15-bf06b289a2a4.png">
+  <img width="600" height="350" src="https://user-images.githubusercontent.com/37472784/88282015-62809500-ccf1-11ea-949f-0c1cb381de74.png">
+  <img width="600" height="350" src="https://user-images.githubusercontent.com/37472784/88281301-18e37a80-ccf0-11ea-8557-c41de8a600fe.png">
+  <img width="600" height="350" src="https://user-images.githubusercontent.com/37472784/88281469-63fd8d80-ccf0-11ea-8e31-ea758e3d36ca.png">
+  <img width="600" height="350" src="https://user-images.githubusercontent.com/37472784/88281485-6eb82280-ccf0-11ea-8724-a7e495f218af.png">
+  <img width="900" height="600" src="https://user-images.githubusercontent.com/37472784/88281603-aaeb8300-ccf0-11ea-8908-cb57386fbe46.png">
+  <img width="600" height="600" src="https://user-images.githubusercontent.com/37472784/88281636-b6d74500-ccf0-11ea-9240-e7f536f82f45.png">
+  <img width="800" height="550" src="https://user-images.githubusercontent.com/37472784/88282115-98257e00-ccf1-11ea-9784-36c64c379693.png">
 </p>
 
