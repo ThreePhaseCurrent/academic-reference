@@ -5,6 +5,8 @@ Outdated Winforms technology is used.
 <strong>The purpose of the system</strong> is to automate the duties of an employee of the training unit.
 <strong>For work, you need</strong> to install .NET Framework 4.0 and Word 2010.
 
+<strong>For all the functionality to work, you need</strong> to add the Additional programs folder to the Release directory. In it you need to create a Word folder and place the Word 2010 installer named Word_2010.exe there. If necessary, the program will prompt the user to install it.
+
 # Short description
 The program was developed by order for an educational institution. Used in the creation of academic reference for students who have been expelled, transferred to another educational institution, or have lost their diploma.
 
@@ -38,4 +40,5 @@ To create help, the COM-object Word 2010 is used. Also in the application there 
 ![image](https://user-images.githubusercontent.com/37472784/88281485-6eb82280-ccf0-11ea-8724-a7e495f218af.png)
 ![image](https://user-images.githubusercontent.com/37472784/88281603-aaeb8300-ccf0-11ea-8908-cb57386fbe46.png)
 ![image](https://user-images.githubusercontent.com/37472784/88281636-b6d74500-ccf0-11ea-9240-e7f536f82f45.png)
+![image](https://user-images.githubusercontent.com/37472784/88282115-98257e00-ccf1-11ea-9784-36c64c379693.png)
 
