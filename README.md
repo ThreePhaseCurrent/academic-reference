@@ -3,6 +3,7 @@ The project was written as a college thesis in 2019.
 Outdated Winforms technology is used. 
 
 <strong>The purpose of the system</strong> is to automate the duties of an employee of the training unit.
+<strong>For work, you need</strong> to install .NET Framework 4.0 and Word 2010.
 
 # Short description
 The program was developed by order for an educational institution. Used in the creation of academic reference for students who have been expelled, transferred to another educational institution, or have lost their diploma.
@@ -24,7 +25,17 @@ You can save or preview the reference at the stage of filling out student data. 
 To create help, the COM-object Word 2010 is used. Also in the application there is a help with a detailed step-by-step description of the application. SQLite is used as a database due to its ease of porting to any computer.
 
 # Screenshots
-![photo_2020-07-23_00-15-41](https://user-images.githubusercontent.com/37472784/88229743-f0209e00-cc79-11ea-9c45-bd14607c33e5.jpg)
-![image](https://user-images.githubusercontent.com/37472784/88229809-0fb7c680-cc7a-11ea-98d7-3c5acaa51370.png)
-![image](https://user-images.githubusercontent.com/37472784/88229952-455caf80-cc7a-11ea-8363-66939eef2893.png)
+![image](https://user-images.githubusercontent.com/37472784/88281145-d5890c00-ccef-11ea-91bf-ca6a8099ee3b.png)
+![image](https://user-images.githubusercontent.com/37472784/88281196-e6398200-ccef-11ea-8279-1993fac18909.png)
+![image](https://user-images.githubusercontent.com/37472784/88281244-fea99c80-ccef-11ea-9e40-d6c38a9dd172.png)
+![image](https://user-images.githubusercontent.com/37472784/88281822-00c02b00-ccf1-11ea-93d9-e045b484991e.png)
+![image](https://user-images.githubusercontent.com/37472784/88281665-c0f94380-ccf0-11ea-809f-5b5fcf59eeb9.png)
+![image](https://user-images.githubusercontent.com/37472784/88281691-ca82ab80-ccf0-11ea-8149-9cc617ca0ab8.png)
+![image](https://user-images.githubusercontent.com/37472784/88281715-d2425000-ccf0-11ea-9b15-bf06b289a2a4.png)
+![image](https://user-images.githubusercontent.com/37472784/88282015-62809500-ccf1-11ea-949f-0c1cb381de74.png)
+![image](https://user-images.githubusercontent.com/37472784/88281301-18e37a80-ccf0-11ea-8557-c41de8a600fe.png)
+![image](https://user-images.githubusercontent.com/37472784/88281469-63fd8d80-ccf0-11ea-8e31-ea758e3d36ca.png)
+![image](https://user-images.githubusercontent.com/37472784/88281485-6eb82280-ccf0-11ea-8724-a7e495f218af.png)
+![image](https://user-images.githubusercontent.com/37472784/88281603-aaeb8300-ccf0-11ea-8908-cb57386fbe46.png)
+![image](https://user-images.githubusercontent.com/37472784/88281636-b6d74500-ccf0-11ea-9240-e7f536f82f45.png)
 
